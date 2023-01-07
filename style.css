@@ -287,6 +287,23 @@ section#flip_box {
 }
 
 
+
+@media screen and (max-width:768px){
+  .carousel-item .content_banner01 h2 {
+    color: #fff;
+    font-size: 24px;
+    line-height: 32px;
+}
+.post-card {
+    margin-bottom: 25px;
+}
+section#flip_box .box-item {
+    margin: 15px auto;
+}
+}
+
+
+
 @media screen and (max-width:767px) {
         #siteheader .navbar-collapse{
           display: block;
